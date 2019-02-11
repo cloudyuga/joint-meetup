@@ -1,8 +1,8 @@
-title: Your Title
+title: Joint Meetup
 description: > # this means to ignore newlines until "baseurl:"
   Your description
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "Your-Link.github.io" # the base hostname & protocol for your site
+url: "joint-meetup.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
